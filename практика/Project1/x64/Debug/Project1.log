@@ -1,0 +1,12 @@
+﻿  Fish.cpp
+C:\Users\damir\Desktop\Project1 — копия — копия\Fish.cpp(91,28): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\damir\Desktop\Project1 — копия — копия\Fish.cpp(120,24): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\damir\Desktop\Project1 — копия — копия\Fish.cpp(131,23): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\damir\Desktop\Project1 — копия — копия\Fish.cpp(132,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\damir\Desktop\Project1 — копия — копия\Fish.cpp(133,21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\damir\Desktop\Project1 — копия — копия\Fish.cpp(160,28): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\damir\Desktop\Project1 — копия — копия\Fish.cpp(195,24): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\damir\Desktop\Project1 — копия — копия\Fish.cpp(206,23): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\damir\Desktop\Project1 — копия — копия\Fish.cpp(207,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\damir\Desktop\Project1 — копия — копия\Fish.cpp(208,21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Project1.vcxproj -> C:\Users\damir\Desktop\Project1 — копия — копия\x64\Debug\Project1.exe
